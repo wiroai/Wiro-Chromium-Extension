@@ -51,7 +51,7 @@ Each action lists the Wiro models made for it, so new models show up without an 
 
 ## Install
 
-Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab), or in Whale from the [Naver Whale Store](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle). There is more about the extension at [wiro.ai/browser-extension](https://wiro.ai/browser-extension). Links to Microsoft Edge Add-ons and Opera add-ons will be added here when those listings go live.
+Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/wiro-ai-tools-for-images/cehkhdmppbnfeahegjjkdhangjelehab), or in Whale from the [Naver Whale Store](https://store.whale.naver.com/detail/elgobhnkemhlhfakdmpijbknhehnkgle). For Firefox, install the [Wiro AI add-on](https://addons.mozilla.org/firefox/addon/wiro-ai/) from Firefox Add-ons; its code is in [Wiro-Firefox-Extension](https://github.com/wiroai/Wiro-Firefox-Extension). There is more about the extension at [wiro.ai/browser-extension](https://wiro.ai/browser-extension). Links to Microsoft Edge Add-ons and Opera add-ons will be added here when those listings go live.
 
 To build it from source, use Node.js 22 or later:
 
